@@ -1,0 +1,10 @@
+{
+  "name": "issue-layer0-cjs",
+  "type": "module",
+  "devDependencies": {
+    "@layer0/cli": "^4.18.3",
+    "@layer0/core": "^4.18.3",
+    "@layer0/devtools": "^4.18.3",
+    "@layer0/prefetch": "^4.18.3"
+  }
+}
