@@ -2,6 +2,10 @@
   "name": "issue-layer0-cjs",
   "type": "module",
   "devDependencies": {
+    "@edgio/cli": "^5.0.4-next-1667215991-666d2ba.0",
+    "@edgio/core": "^5.0.4-next-1667215991-666d2ba.0",
+    "@edgio/devtools": "^5.0.4-next-1667215991-666d2ba.0",
+    "@edgio/prefetch": "^5.0.4-next-1667215991-666d2ba.0",
     "@layer0/cli": "^4.18.9",
     "@layer0/core": "^4.18.9",
     "@layer0/devtools": "^4.18.9",
