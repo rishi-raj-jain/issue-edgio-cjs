@@ -1,5 +1,5 @@
 {
-  "name": "issue-layer0-cjs",
+  "name": "issue-edgio-cjs",
   "type": "module",
   "devDependencies": {
     "@edgio/cli": "^5.0.4-next-1667215991-666d2ba.0",
