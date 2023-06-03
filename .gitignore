@@ -2,3 +2,6 @@
 /node_modules
 /.edgio
 /.vscode
+
+# Edgio generated build directory
+.edgio

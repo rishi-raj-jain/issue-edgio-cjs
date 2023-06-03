@@ -2,13 +2,9 @@
   "name": "issue-edgio-cjs",
   "type": "module",
   "devDependencies": {
-    "@edgio/cli": "^5.0.4-next-1667400537-26270e2.0",
-    "@edgio/core": "^5.0.4-next-1667400537-26270e2.0",
-    "@edgio/devtools": "^5.0.4-next-1667400537-26270e2.0",
-    "@edgio/prefetch": "^5.0.4-next-1667400537-26270e2.0",
-    "@layer0/cli": "^4.18.9",
-    "@layer0/core": "^4.18.9",
-    "@layer0/devtools": "^4.18.9",
-    "@layer0/prefetch": "^4.18.9"
+    "@edgio/cli": "^7.0.15",
+    "@edgio/core": "^7.0.15",
+    "@edgio/devtools": "^7.0.15",
+    "@edgio/prefetch": "^7.0.15"
   }
 }

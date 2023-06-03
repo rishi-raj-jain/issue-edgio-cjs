@@ -1,6 +1,6 @@
 module.exports = {
   connector: "./edgio",
-  includeFiles: {
-    build: true
-  }
+  serverless: {
+    include: ["build/**/*"],
+  },
 };
