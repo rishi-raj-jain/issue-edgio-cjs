@@ -7,8 +7,8 @@ const builder = new DeploymentBuilder(appDir);
 module.exports = async function build() {
   builder.clearPreviousBuildOutput();
   await builder.build();
-  builder.writeFileSync(
-    join(builder.jsDir, "__backends__", "package.json"),
-    JSON.stringify({ type: "commonjs" })
-  );
+  // builder.writeFileSync(
+  //   join(builder.jsDir, "__backends__", "package.json"),
+  //   JSON.stringify({ type: "commonjs" })
+  // );
 };
